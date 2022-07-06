@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CheungSely
 - 👀 I’m interested in biology, informatics and data bases
-- 🌱 I’m currently learning basic programming in c++
+- 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on statistics, bioinformatics.
 - 📫 How to reach me lyseka@hotmail.com
 
